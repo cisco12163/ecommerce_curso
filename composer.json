@@ -1,9 +1,9 @@
 {
-    "name": "hcodebr/ecommerce_curso",
+    "name": "cisco12163/ecommerce_curso",
     "authors": [
         {
-            "name": "Hcode Treinamentos",
-            "email": "fnsilva.nunes@gmail.com.br"
+            "name": "Curso php ecomerce",
+            "email": "efranstore66@gmail.com.br"
         }
     ],
     "require": {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "Hcode\\": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
